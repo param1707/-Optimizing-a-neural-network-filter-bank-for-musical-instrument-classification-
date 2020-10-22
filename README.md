@@ -1,6 +1,6 @@
 # OPTIMIZING A NEURAL NETWORK FILTER BANK FOR MUSICAL INSTRUMENT CLASSIFICATION 
 
-##Basic Research Project for Master's Course at Technische Universität Ilmenau, Germany, 2020/21.\
+## Basic Research Project for Master's Course at Technische Universität Ilmenau, Germany, 2020/21.
 
 Student Name: Param Tushar Gadam\
 Professor Supervisor: Prof. Gerald Schuller\
